@@ -6,8 +6,6 @@ tags:
 - manchester
 - morphogenesis
 - turing
-categories:
-- Technology
 date: 2012-03-28 14:52:55.000000000 -07:00
 layout: post
 author: Jamie Henson

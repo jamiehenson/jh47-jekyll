@@ -7,8 +7,6 @@ tags:
 - galaxy
 - gingerbread
 - samsung
-categories:
-- Technology
 date: 2012-03-31 03:04:36.000000000 -07:00
 layout: post
 author: Jamie Henson

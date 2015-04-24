@@ -7,8 +7,6 @@ tags:
 - of
 - primes
 - product
-categories:
-- Technology
 date: 2011-09-03 15:43:59.000000000 -07:00
 layout: post
 author: Jamie Henson

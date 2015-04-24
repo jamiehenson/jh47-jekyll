@@ -2,15 +2,12 @@
 title: Freedom for Wrists
 date: 2015-04-09 02:18:32.000000000 -07:00
 tags:
-- technology
 - wearables
 - apple watch
 - moto 360
 - watch
 - smartwatch
 - freedom
-categories:
-- Technology
 layout: post
 author: Jamie Henson
 author: Jamie Henson

@@ -8,8 +8,6 @@ tags:
 - lab
 - project
 - university
-categories:
-- Interactive Devices
 date: 2013-10-15 08:35:14.000000000 -07:00
 layout: post
 author: Jamie Henson

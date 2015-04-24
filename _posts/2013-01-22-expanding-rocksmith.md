@@ -9,10 +9,7 @@ tags:
 - mod
 - pc
 - rocksmith
-categories:
-- Games
-- Music
-- Technology
+
 date: 2013-01-22 13:12:49.000000000 -08:00
 layout: post
 author: Jamie Henson

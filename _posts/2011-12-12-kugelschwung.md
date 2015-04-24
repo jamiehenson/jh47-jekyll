@@ -1,11 +1,11 @@
 ---
 title: Kugelschwung!
 tags:
-- kugelschwung laser pendulum kraftwerk electronic
-categories:
-- Music
-- Technology
-- University
+- kugelschwung
+- laser 
+- pendulum 
+- kraftwerk 
+- electronic
 date: 2011-12-12 15:43:04.000000000 -08:00
 layout: post
 author: Jamie Henson

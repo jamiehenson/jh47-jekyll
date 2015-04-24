@@ -6,9 +6,6 @@ tags:
   - song
   - sisqo
   - psychology
-categories:
-  - Psychology
-  - Music
 layout: post
 author: Jamie Henson
 ---

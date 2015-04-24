@@ -11,8 +11,6 @@ tags:
 - looper
 - reflexive
 - rocksmith
-categories:
-- Interactive Devices
 date: 2013-10-01 03:21:26.000000000 -07:00
 layout: post
 author: Jamie Henson

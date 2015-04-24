@@ -1,10 +1,17 @@
 ---
 title: 'Making STR: entry one'
 tags:
-- str games project bristol university unity side scrolling shooter game prototype
-categories:
-- Games
-- University
+- str
+- games
+- project 
+- bristol 
+- university 
+- unity 
+- side 
+- scrolling 
+- shooter 
+- game 
+- prototype
 date: 2012-12-16 17:52:10.000000000 -08:00
 layout: post
 author: Jamie Henson
@@ -24,7 +31,7 @@ In terms of prototyping, our choice of game engine has made the whole experience
 
 I suppose I’d better introduce the game. It’s called **STR** (at the moment), and it is, essentially, a modern take on the space-based side-scrolling shooter. We initially had it based around the laws of relativity (STR stands for Special Theory of Relativity), but digging deeper into the physics revealed a whole world of stuff that was both inappropriately hard, and also unsuitable for a fast-paced and fun game. We are now investigating further into other cool aspects of physics that we can shoehorn in to our steadily growing prototype – which currently just shows a meat and potatoes shooter with no novel features as such.
 
-You can play the latest development prototype, and find out a little bit more about the team here: 
+You can play the latest development prototype, and find out a little bit more about the team here:
 
 [http://handlebarcomrades.com/](http://handlebarcomrades.com/ "http://handlebarcomrades.com/")
 

@@ -8,8 +8,6 @@ tags:
 - review
 - rotterdam
 - travel
-categories:
-- Travel
 date: 2012-09-19 17:38:38.000000000 -07:00
 layout: post
 author: Jamie Henson
@@ -33,7 +31,7 @@ The support for English tended to peak in what could be considered the “touris
 
 My impression as a tourist who does his own thing (i.e. with no tour guides or whatever) was that in general around Holland, there seems to be a system of tolerance and respect. There is prostitution and mild drug-taking in plain view, but it’s heavily policed, and regulated. Therefore, for those interested, there’s no need to make a crime out of it. When I took trains around the country, my ticket was not checked once, but I was told that the penalty for being caught freeloading would have been severe. I respected that. This just doesn’t happen in the UK. Everything is buried under policy and a lack of common sense, and you’re charged through the ear for it.
 
-[![P1030078](http://jh47.com/wp-content/uploads/2012/09/P1030078_thumb.jpg "P1030078")](http://jh47.com/wp-content/uploads/2012/09/P1030078.jpg)The nicest way to get around Amsterdam I found was a water-bike. A pedalo, basically. On the day of my birthday, we were peddling at a leisurely pace around the canals with full sun in the sky. It was lovely, and I got some great snaps out of it. It cost us 10 euros each for an hour and a half – well worth it. You can find them along the west side of the Central quarter, from outside the Rijksmuseum upwards. 
+[![P1030078](http://jh47.com/wp-content/uploads/2012/09/P1030078_thumb.jpg "P1030078")](http://jh47.com/wp-content/uploads/2012/09/P1030078.jpg)The nicest way to get around Amsterdam I found was a water-bike. A pedalo, basically. On the day of my birthday, we were peddling at a leisurely pace around the canals with full sun in the sky. It was lovely, and I got some great snaps out of it. It cost us 10 euros each for an hour and a half – well worth it. You can find them along the west side of the Central quarter, from outside the Rijksmuseum upwards.
 
 Bicycles were everywhere. At all times of the day. Everywhere had a bike lane, and you better believe that they get right of way! It took some getting used to, having to look both ways for bikes, then stepping forward to do the same for cars. I got an angry bell my way several times.
 

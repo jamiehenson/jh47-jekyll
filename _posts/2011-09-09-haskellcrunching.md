@@ -5,8 +5,6 @@ tags:
 - java
 - prime numbers
 - sieve of eratosthenes
-categories:
-- Technology
 date: 2011-09-09 08:34:03.000000000 -07:00
 layout: post
 author: Jamie Henson
@@ -36,7 +34,7 @@ String getprimes(String args)
 
     // Check if 1 is found, this is a dodgy answer, since it is not prime
     // (arguably), and contains no primes
-    if (args == "1") 
+    if (args == "1")
     {
       pri.append("N/A");
       String prilist = pri.toString();
@@ -69,7 +67,7 @@ String getprimes(String args)
 
     pri.delete(pri.length()-2,pri.length());
     String prilist = pri.toString();
-    return prilist; 
+    return prilist;
   }
 </pre>
 I think we can agree that it's not exactly light on its feet. Now, let's compare that with a similar tiny method in Haskell (a guarded Turner sieve [1]):

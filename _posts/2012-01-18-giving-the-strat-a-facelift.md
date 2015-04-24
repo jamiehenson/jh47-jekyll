@@ -8,8 +8,6 @@ tags:
 - stratocaster
 - tinker
 - white
-categories:
-- Music
 date: 2012-01-18 17:22:40.000000000 -08:00
 layout: post
 author: Jamie Henson

@@ -4,8 +4,6 @@ tags:
 - abroad
 - university
 - year
-categories:
-- University
 date: 2012-09-07 15:34:53.000000000 -07:00
 layout: post
 author: Jamie Henson

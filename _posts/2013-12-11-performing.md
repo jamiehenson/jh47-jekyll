@@ -6,9 +6,6 @@ tags:
 - performance
 - synthesiser
 - waves to waves
-categories:
-- Interactive Devices
-- Technology
 date: 2013-12-11 10:16:04.000000000 -08:00
 layout: post
 author: Jamie Henson

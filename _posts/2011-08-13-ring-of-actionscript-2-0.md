@@ -6,8 +6,6 @@ tags:
 - java
 - ring of fire
 - shuffle
-categories:
-- Technology
 date: 2011-08-13 17:18:25.000000000 -07:00
 layout: post
 author: Jamie Henson

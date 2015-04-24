@@ -6,8 +6,6 @@ tags:
 - bristol
 - sf
 - uk
-categories:
-- Travel
 date: 2014-11-26 18:17:56.000000000 -08:00
 layout: post
 author: Jamie Henson

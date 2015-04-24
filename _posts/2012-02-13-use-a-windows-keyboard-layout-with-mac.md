@@ -1,7 +1,7 @@
 ---
 title: Use a Windows keyboard layout with Mac
-categories:
-- Technology
+
+
 date: 2012-02-13 08:40:11.000000000 -08:00
 tags: 
 layout: post

@@ -1,9 +1,7 @@
 ---
 title: 'Final Project: week one'
-categories:
-- Final Project
 date: 2014-02-02 14:23:15.000000000 -08:00
-tags: 
+tags:
 layout: post
 author: Jamie Henson
 ---

@@ -4,8 +4,6 @@ tags:
 - hackintosh
 - mac
 - windows
-categories:
-- Technology
 date: 2011-08-01 17:04:36.000000000 -07:00
 layout: post
 author: Jamie Henson

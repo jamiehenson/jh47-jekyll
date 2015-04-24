@@ -1,9 +1,7 @@
 ---
 title: Working in Games
-categories:
-- Technology
 date: 2013-09-17 09:05:19.000000000 -07:00
-tags: 
+tags:
 layout: post
 author: Jamie Henson
 ---

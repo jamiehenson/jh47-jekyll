@@ -1,9 +1,7 @@
 ---
 title: 'Interactive Devices: Preparing the performance'
-categories:
-- Interactive Devices
 date: 2013-12-04 10:56:28.000000000 -08:00
-tags: 
+tags:
 layout: post
 author: Jamie Henson
 ---

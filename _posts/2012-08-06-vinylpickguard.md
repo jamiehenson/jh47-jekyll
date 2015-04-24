@@ -8,9 +8,6 @@ tags:
 - scratchplate
 - telecaster
 - vinyl
-categories:
-- Music
-- Technology
 date: 2012-08-06 14:23:32.000000000 -07:00
 layout: post
 author: Jamie Henson

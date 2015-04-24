@@ -11,8 +11,6 @@ tags:
 - reality
 - review
 - wimp
-categories:
-- Interactive Devices
 date: 2013-10-11 03:25:53.000000000 -07:00
 layout: post
 author: Jamie Henson

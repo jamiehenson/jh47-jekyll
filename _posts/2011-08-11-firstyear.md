@@ -8,9 +8,6 @@ tags:
 - help
 - scientist
 - university
-categories:
-- Technology
-- University
 date: 2011-08-11 09:59:54.000000000 -07:00
 layout: post
 author: Jamie Henson

@@ -7,9 +7,6 @@ tags:
 - goldney
 - hornstars
 - jazz
-categories:
-- Music
-- University
 date: 2013-12-16 09:10:32.000000000 -08:00
 layout: post
 author: Jamie Henson

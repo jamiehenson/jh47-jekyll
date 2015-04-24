@@ -9,8 +9,6 @@ tags:
 - pure data
 - synthesiser
 - water
-categories:
-- Interactive Devices
 date: 2013-11-12 15:55:43.000000000 -08:00
 layout: post
 author: Jamie Henson

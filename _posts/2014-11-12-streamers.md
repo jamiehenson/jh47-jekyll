@@ -6,9 +6,6 @@ tags:
 - rdio
 - spotify
 - streaming
-categories:
-- Music
-- Technology
 date: 2014-11-12 15:12:17.000000000 -08:00
 layout: post
 author: Jamie Henson

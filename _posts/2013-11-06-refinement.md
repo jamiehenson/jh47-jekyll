@@ -6,8 +6,6 @@ tags:
 - idea
 - interactive devices
 - refinement
-categories:
-- Interactive Devices
 date: 2013-11-06 07:44:53.000000000 -08:00
 layout: post
 author: Jamie Henson

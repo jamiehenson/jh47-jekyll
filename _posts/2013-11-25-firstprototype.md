@@ -11,8 +11,6 @@ tags:
 - synthesiser
 - university
 - water
-categories:
-- Interactive Devices
 date: 2013-11-25 08:16:25.000000000 -08:00
 layout: post
 author: Jamie Henson

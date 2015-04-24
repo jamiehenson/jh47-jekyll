@@ -10,8 +10,6 @@ tags:
 - pico
 - visualisation
 - water
-categories:
-- Interactive Devices
 date: 2013-10-26 10:21:05.000000000 -07:00
 layout: post
 author: Jamie Henson

@@ -4,8 +4,6 @@ tags:
 - bristol
 - second term
 - second year
-categories:
-- University
 date: 2012-01-29 16:57:58.000000000 -08:00
 layout: post
 author: Jamie Henson

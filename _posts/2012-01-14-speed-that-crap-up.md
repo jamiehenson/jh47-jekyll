@@ -1,9 +1,10 @@
 ---
 title: Speed that crap up!
 tags:
-- fft pattern matching algorithm
-categories:
-- Technology
+- fft
+- pattern
+- matching
+- algorithm
 date: 2012-01-14 17:27:23.000000000 -08:00
 layout: post
 author: Jamie Henson

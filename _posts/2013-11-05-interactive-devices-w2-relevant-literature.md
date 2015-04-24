@@ -8,8 +8,6 @@ tags:
 - papers
 - relevant
 - research
-categories:
-- Interactive Devices
 date: 2013-11-05 06:34:31.000000000 -08:00
 layout: post
 author: Jamie Henson

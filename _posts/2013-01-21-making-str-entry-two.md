@@ -10,10 +10,6 @@ tags:
 - str
 - unity
 - university
-categories:
-- Games
-- STR
-- University
 date: 2013-01-21 15:33:27.000000000 -08:00
 layout: post
 author: Jamie Henson

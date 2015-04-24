@@ -5,9 +5,6 @@ tags:
 - concurrency
 - multicore
 - xc
-categories:
-- Technology
-- University
 date: 2011-11-08 08:55:20.000000000 -08:00
 layout: post
 author: Jamie Henson

@@ -7,8 +7,6 @@ tags:
 - interactive devices
 - project
 - waves to waves
-
-
 date: 2013-12-19 13:52:11.000000000 -08:00
 layout: post
 author: Jamie Henson

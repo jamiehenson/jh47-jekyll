@@ -33,7 +33,7 @@ header-img: "img/cv-bg.jpg"
 
 ### Work Experience
 
-- **Self-employed** (September 2015 - present)
+- **Software Engineer - Self-employed** (September 2015 - present)
 - **Software Engineer - Caring.com / SVIP** (September 2014 - September 2015)
 - **Unity Game Developer - Opposable Games** (June 2013 - September 2013)
 - **HCI Research Assistant - University of Bristol** (July 2012 - September 2012)

@@ -10,6 +10,8 @@ twitter_username: HensonJamie
 github_username:  jamiehenson
 author: Jamie Henson
 
+gems: [jekyll-paginate]
+
 # Build settings
 markdown: kramdown
 highlighter: pygments

@@ -34,7 +34,7 @@ These consequences include an expanding gulf between "classes" within the city (
 
 That said, there's a lot to like about San Francisco when you take technology out of the picture. There's a lot to like about Americans in general. When you look at it like that, and not a tech Mecca, it becomes a lot more appealing because it does have a lot to offer, and a lot of things to enjoy that are undeniably San Franciscan.
 
-However, the exceptionalism people tend to apply to it is a tad distracting. Many cities around the world have a comparable if not superior commercial and cultural identity, yet their residents do not defend their city with the same fanaticism that (usually implanted) workers in San Francisco do. The world is a big place, and it's really not that unique. It's not a utopia to be built through a technological elite. It's a city, where people live.
+However, the exceptionalism people tend to apply to it is a tad distracting. Many cities around the world have a comparable if not superior commercial and cultural identity, yet their residents do not defend their city with the same rabid hashtagged fanaticism that (usually implanted) workers in San Francisco do. The world is a big place, and it's really not that unique. It's not a utopia to be built through a technological elite. It's a city, where people live.
 
 I'm not against living in the US, but the bureaucratic hurdles of being allowed to live there as a foreign citizen are ironically vertical given that it's the "land of the free". I will very happily visit, and I appreciate that the US is so incredibly vast and changing between the two coasts, but I feel better with my base in the UK. Plus, it's a massive pain shipping musical instruments around the world...
 

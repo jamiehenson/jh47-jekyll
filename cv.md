@@ -9,7 +9,7 @@ header-img: "img/cv-bg.jpg"
   <h1>Jamie Henson</h1>
   Full-stack developer and multi-instrumentalist.
   <br/>
-  <em>jhenson47@gmail.com</em>
+  <em>jamie@jh47.com</em>
 </center>
 
 ***
